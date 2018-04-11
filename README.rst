@@ -27,7 +27,8 @@ Build project locally
 
 Requires python3 to run with support for virtualenvs:
 
-.. code:: bash
+.. code-block:: bash
+
     python3 -m venv .venv_template-python-project
     source .venv_template-python-project/bin/activate
     pip3 install tox
