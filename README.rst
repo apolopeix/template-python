@@ -5,8 +5,8 @@ Template python project
 .. image:: https://travis-ci.org/apolopeix/template-python-project.svg?branch=master
     :target: http://travis-ci.org/apolopeix/template-python-project
     :alt: Build Status
-.. image:: https://travis-ci.org/apolopeix/template-python-project/coverage.svg?branch=master
-    :target: https://codecov.io/gh/apolopeix/template-python-project?branch=master
+.. image:: https://codecov.io/gh/apolopeix/template-python-project/branch/master/graph/badge.svg
+    :target: https://codecov.io/gh/apolopeix/template-python-project
     :alt: Code Coverage
 
 This project is a template that can be used to quickly start new python projects.
